@@ -2,8 +2,8 @@
                           Realizado por |ArgA|MIV
 *******************************************************************************/
 
-TEMPLATE_VERSION     = "0.9.22";
-TEMPLATE_LAST_UPDATE = "2024-4-27";                  // Escribir la fecha en formato AAAA-M-D sin ceros en el mes o el día.
+TEMPLATE_VERSION     = "0.9.24";
+TEMPLATE_LAST_UPDATE = "2025-2-17";                  // Escribir la fecha en formato AAAA-M-D sin ceros en el mes o el día.
 
 /* Log system */
 DEBUG = 1;                                          // 1: Habilita el modo debug, 0: Deshabilita.
@@ -32,7 +32,7 @@ RADIO_CHANNEL_SETUP = [["lider",[["ACRE_PRC117F",6],["ACRE_PRC152",5],["ACRE_PRC
 
 ROLES_NEEDING_PLATOON = ["lider_peloton","lider_escuadra_1","lider_escuadra_2","lider_escuadra_3","sublider_escuadra_1","sublider_escuadra_2","sublider_escuadra_3"];
 
-REVIEWER_UID = ["76561198026915573", "76561198091139370", "76561198030188168", "76561198010777357"];
+REVIEWER_UID = ["76561198026915573", "76561198091139370", "76561198030188168", "76561198010777357", "76561198094009057"]; // Ignacio, Maxi, Shaggy, Vultur, Reynolds
 ////////////////////////////////////////////////////////////////////////////////
 
 /*******************************************************************************
